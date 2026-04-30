@@ -21,7 +21,7 @@ def compute_spread(X):
     return spread
 
 # -------- Config --------
-DATA_PATH = r"C:\Users\Venkatesan T\PycharmProjects\PythonProject1\project\dsp"
+DATA_PATH = "Your_dataset_path"
 BATCH_SIZE = 8
 EPOCHS = 10
 LR = 1e-3
